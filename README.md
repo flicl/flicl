@@ -4,31 +4,28 @@ I'm a network analyst focused on internet service providers.
 
 Most of my day-to-day work involves real ISP environments: BGP, BNG/BRAS, CGNAT, PPPoE, VLANs, IPv6, GPON/EPON, monitoring, and production troubleshooting.
 
-I also enjoy building tools, scripts, and automations that make network operations, documentation, diagnostics, and NOC routines a little easier.
+I build tools, scripts, and automations to make network operations, documentation, diagnostics, and NOC routines easier.
 
 ---
 
 ## 🛠️ What I do
 
-- ISP network operations and troubleshooting
-- BGP, OSPF, IS-IS, MPLS, and routing policies
-- BNG/BRAS, PPPoE, IPoE, and CGNAT
-- IPv6, prefix delegation, and dual-stack
-- GPON/EPON with Huawei, ZTE, and FiberHome
-- Monitoring with Zabbix, Grafana, SmokePing, SNMP, and Syslog
-- Linux, Proxmox, Docker, and internal automation
-- Scripts and tools for MikroTik, Huawei, and ISP environments
+* ISP network operations, support, and troubleshooting
+* Routing, BNG/BRAS, PPPoE/IPoE, CGNAT, and IPv6
+* GPON/EPON access networks and multivendor OLT environments
+* Monitoring, documentation, automation, and internal tools
+* Practical scripts for MikroTik, Huawei, Linux, and ISP workflows
 
 ---
 
 ## 🔧 Technologies and tools
 
 **Network:** BGP · OSPF · IS-IS · MPLS · VLAN · PPPoE · IPoE · CGNAT · IPv6  
-**Vendors:** MikroTik · Huawei · ZTE · FiberHome · Juniper · Cisco · Ubiquiti  
+**Vendors:** MikroTik · Huawei · ZTE · FiberHome · Juniper · Nokia · Cisco · Ubiquiti  
 **Access:** GPON · EPON · OLT · ONT · FTTH · Wireless  
 **Monitoring:** Zabbix · Grafana · SmokePing · SNMP · Syslog  
 **Systems:** Linux · Proxmox · Docker · Debian · Arch/CachyOS  
-**Code:** Python · Shell · TypeScript · SQL  
+**Automation:** Python · Shell scripting · SQL · API integrations · internal tools  
 
 ---
 
